@@ -1,7 +1,9 @@
-# Stream Spotify (or any other sound) to Caliber HPG336DAB/DIR
+# Stream Spotify (or any other sound) to a Caliber HPG336DAB/DIR radio
 
 I use a small Caliber [HPG336DAB/DIR](https://www.calibereurope.com/en/product/HPG336DAB-DIR-en_GB/) radio to listen to
 Internet radio stations as my house is located in a white spot with no access to the FM or DAB bands.
+
+![Caliber HPG336DAB/DIR](/renderer/Caliber-HPG336DAB.png)
 
 This small device is also an UPNP client. I was thus wondering if there is a possibility to listen to my Spotify playlists on it. 
 
