@@ -55,7 +55,9 @@ is a latency of about 30 seconds.
 If you listen to Spotify music, you can use the Spotify smartphone app to change the music you listen to (with the latency described
 earlier).
 
-## MacOS (including M1 computers)
+## MacOS
+
+(Including M1 computers)
 
 The general strategy I've adopted for Mac computers is similar to the one used for Windows. However, I didn't find something similar
 to SWYH to capture the sound card. Therefore, I've implemented an alternative solution based 
@@ -97,3 +99,10 @@ is a latency of about 30 seconds.
 
 If you listen to Spotify music, you can use the Spotify smartphone app to change the music you listen to (with the latency described
 earlier).
+
+## iPhone
+
+I didn't (yet) find a direct solution to stream iPhone music to the caliber device. A simple workaround is to play music of the 
+iPhone on a Mac computer via [Airplay](https://www.apple.com/airplay/). If the Mac is running the VLC / UMS combination explained in the 
+[previous section](#macos), the sound of your iPhone will be streamed to the Caliber device.
+  
