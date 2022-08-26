@@ -102,7 +102,7 @@ earlier).
 
 ## iPhone
 
-I didn't (yet) find a direct solution to stream iPhone music to the caliber device. A simple workaround is to play music of the 
-iPhone on a Mac computer via [Airplay](https://www.apple.com/airplay/). If the Mac is running the VLC / UMS combination explained in the 
+I didn't (yet) find a direct solution to stream iPhone music to the Caliber device. A simple workaround is to send music from the 
+iPhone to a Mac computer via [Airplay](https://www.apple.com/airplay/). If the Mac is running the VLC / UMS combination explained in the 
 [previous section](#macos), the sound of your iPhone will be streamed to the Caliber device.
   
