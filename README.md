@@ -57,7 +57,7 @@ earlier).
 
 ## MacOS
 
-(Including M1 computers)
+> This solution also workd on Mac computers with ARM architecture (M1, M2).
 
 The general strategy I've adopted for Mac computers is similar to the one used for Windows. However, I didn't find something similar
 to SWYH to capture the sound card. Therefore, I've implemented an alternative solution based 
