@@ -42,7 +42,7 @@ the following settings:
 - Folders: Soundcard (or any other name).
 - Source URL: http://localhost:8090/stream/swyh.mp3.
 
-Note: In the "General Settings" tab, choose the "JUPnP (Java)" media server engine, which seems to work bette with the Caliber device.
+Note: In the "General Settings" tab, choose the "JUPnP (Java)" media server engine, which seems to work better with the Caliber device.
 
 Obviously, this implies UMS and SWYH being installed on the same computer. 
 
@@ -90,7 +90,7 @@ the following settings:
 - Folders: Soundcard (or any other name).
 - Source URL: http://localhost:8090.
 
-Note: In the "General Settings" tab, choose the "JUPnP (Java)" media server engine, which seems to work bette with the Caliber device.
+Note: In the "General Settings" tab, choose the "JUPnP (Java)" media server engine, which seems to work better with the Caliber device.
 
 Obviously, this implies UMS and VLC being installed on the same computer. 
 
