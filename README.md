@@ -42,6 +42,8 @@ the following settings:
 - Folders: Soundcard (or any other name).
 - Source URL: http://localhost:8090/stream/swyh.mp3.
 
+Note: In the "General Settings" tab, choose the "JUPnP (Java)" media server engine, which seems to work bette with the Caliber device.
+
 Obviously, this implies UMS and SWYH being installed on the same computer. 
 
 Play some music (for instance, a Spotify playlist) on your computer. In the "Media" tab of the Caliber device, you should be able to
@@ -70,7 +72,7 @@ does. Therefore, go to the File | Open Capture Device menu of VLC. Choose to cap
 "Stream output" checkbox and open the "Settings" window. In this window:
 - Choose to "Stream" with "HTTP" type.
 - Mention the "localhost" address, and the 8090 port.
-- Choose the "Raw" encapsulation method.
+- Choose the "MPEG TS" or "Raw" encapsulation method.
 - Select "Audio" and "mp3" in the transcoding options.
 - You can also specify a 128k bitrate and 2 channels (even if I'm not sure this is really needed).
 
@@ -87,6 +89,8 @@ the following settings:
 - Type: Audio stream.
 - Folders: Soundcard (or any other name).
 - Source URL: http://localhost:8090.
+
+Note: In the "General Settings" tab, choose the "JUPnP (Java)" media server engine, which seems to work bette with the Caliber device.
 
 Obviously, this implies UMS and VLC being installed on the same computer. 
 
